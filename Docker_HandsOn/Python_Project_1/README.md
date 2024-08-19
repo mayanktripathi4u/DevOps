@@ -19,5 +19,6 @@ docker run myfirstpythonapp
 import os
 print("Current Dir is ", os.getcwd())
 ```
-6. As we have modified the file(s) we have to rebuild the image to reflect the changes.
+6. As we have modified the file(s) we have to rebuild the image to reflect the changes. So follow step # 3 and # 4
+7. 
 

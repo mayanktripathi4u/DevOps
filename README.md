@@ -1,5 +1,7 @@
 # DevOps
 
+![alt text](image.png)
+
 # Learning DevOps
 [Learning Path](/DevOps/LearningPath.md)
 

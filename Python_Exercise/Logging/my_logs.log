@@ -1,0 +1,16 @@
+2024-08-07 18:43:00,931 -My_Program_Logs -DEBUG - This is a debug message
+2024-08-07 18:43:00,932 -My_Program_Logs -INFO - This is am Info message
+2024-08-07 18:43:00,934 -My_Program_Logs -WARNING - This is a warning message
+2024-08-07 18:43:00,934 -My_Program_Logs -ERROR - This is Error Message
+2024-08-07 18:43:00,935 -My_Program_Logs -CRITICAL - This is Critical message
+2024-08-07 18:44:31,040 -My_Program_Logs -ERROR - Exception occured while dividing by zero.
+Traceback (most recent call last):
+  File "/var/folders/s_/7zsx90cx0lq33h2z6dczzvrc0000gn/T/ipykernel_43589/399711437.py", line 3, in <module>
+    result = 10/0
+ZeroDivisionError: division by zero
+2024-08-07 18:46:21,359 -My_Program_Logs -INFO - User Mayank is 16 years old.
+2024-08-07 19:06:22,641 -My_Program_Logs -INFO - File Read Successfully.
+2024-08-07 19:08:22,629 -file_example -INFO - File Read Successfully.
+2024-08-07 19:09:12,547 -file_example -INFO - File Read Successfully.
+2024-08-07 19:11:07,931 -file_example -INFO - File Read Successfully.
+2024-08-07 19:13:03,994 -file_example -ERROR - File Not Found [Errno 2] No such file or directory: 'File_Not_Exists.txt'
